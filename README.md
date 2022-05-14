@@ -6,7 +6,7 @@ PyCGE is a Python 3 implementation of routines for calibrating various computati
 # Installation
 The PyCGE package is developed in python 3.9.6. The exact requirement of packages are listed in poetry.lock.
 
-We recommend to use VScode + docker to use this package. In this way, you do not need a python in your computer. Python and other related packages are installed in the docker, which is separated from other namespaces. There are three steps:
+We recommend to use VScode + docker to use this package. In this way, you do not need a python in your computer. Python and other related packages are installed in the docker, which is separated from other namespaces. To use VScode + docker, you need to follow these three steps:
   - Install docker desktop 
   - Install VScode
   - Activate VScode and install extension "Remote - Containers"
